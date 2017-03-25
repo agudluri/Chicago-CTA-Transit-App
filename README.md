@@ -13,3 +13,10 @@ Create a program that models the CTA and allows users to interact with the data 
 - Exit the program
 
 The user should be continually prompted to choose between the above options and can  exit the menu with the appropriate choice. The verification of each operation should be visible by console displays. You may of course add additional menu options.
+
+#### Station information CSV format: 
+  Name, Latitude, Longitude, Location, Wheelchair, Red, Green, Blue, Brown, Purple, Pink, Orange, Yellow
+      
+      Name  The name of the station
+      Latitude  the latitude of the station
+
