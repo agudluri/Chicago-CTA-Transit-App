@@ -17,6 +17,17 @@ The user should be continually prompted to choose between the above options and 
 #### Station information CSV format: 
   Name, Latitude, Longitude, Location, Wheelchair, Red, Green, Blue, Brown, Purple, Pink, Orange, Yellow
       
-      Name  The name of the station
-      Latitude  the latitude of the station
-
+      Name        The name of the station.
+      Latitude    The latitude of the station's location.
+      Longitude   The longitude of the station's location.
+      Location    The location of the station, i.e., elevated or enbankment and such.
+      Wheelchair  Denotes the station's wheelchair accessibilty. TRUE/FALSE.
+      Red
+      Green
+      Blue
+      Brown       These denote if the line covers the station or not. The stop number, if true and -1 if false.
+      Purple
+      Pink
+      Orange
+      Yellow
+      
