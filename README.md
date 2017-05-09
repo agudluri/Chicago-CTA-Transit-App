@@ -6,7 +6,7 @@ A JAVA based application for Chicago's rail transit system. Sans a GUI.
 Create a program that models the CTA and allows users to interact with the data it contains. How the system is designed is entirely up to you, but it must meet the following requirements:
 
 - Add a new station to the CTA system and be able to verify that the data has been added
-- ‘find’ (search) for a specific station; users should be able to verify that the search was successful or unsuccessful
+- Search for a specific station; users should be able to verify that the search was successful or unsuccessful
 - Delete a station from the CTA system; user should be able to verify that the data was deleted
 - Generate a route from a starting station to a destination station (this should beable to handle the possibility of a user needing to transfer from one line to another)
 - Find the nearest station to a location
